@@ -8,7 +8,6 @@ def InputNum():
             print("Ошибка: введите корректное число")
     return number
 
-
 n = InputNum()
 max_s = 0
 max_m = 0
